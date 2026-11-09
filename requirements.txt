@@ -1,0 +1,7 @@
+# On Windows or CPU-only machines, install PyTorch with: pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch
+numpy
+pillow
+fastapi
+uvicorn[standard]
+opencv-python-headless

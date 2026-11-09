@@ -1,0 +1,24 @@
+{
+  "mnist": {
+    "test_accuracy": 0.9962,
+    "macro_precision": 0.9962097359273621,
+    "macro_recall": 0.9962000000000002,
+    "macro_f1": 0.9962008333058439,
+    "num_classes": 10,
+    "parameters": 585130,
+    "mean": 0.17335039256443316,
+    "std": 0.33175809571933845
+  },
+  "emnist_balanced": {
+    "test_accuracy": 0.9020744680851064,
+    "macro_precision": 0.9063159282852303,
+    "macro_recall": 0.9020744680851063,
+    "macro_f1": 0.9005440366233982,
+    "num_classes": 47,
+    "parameters": 594639,
+    "best_val_accuracy": 0.901595744680851,
+    "epochs": 20,
+    "mean": 0.17512497202387653,
+    "std": 0.3332565393973647
+  }
+}
